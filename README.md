@@ -1,0 +1,1 @@
+# Hospital-Emergency-Life-Support-Patient-Triage-Grid
